@@ -2,11 +2,6 @@ body {
   font-family: Montserrat, sans-serif;
   position: relative;
 }
-img {
-  position: absolute;
-  top: -370px;
-  left: 240px;
-}
 
 .nav-list {
   display: flex;
