@@ -1,5 +1,5 @@
 
-@import url(/styles/navbar.css);
+@import url(navbar.css);
 
 
 /* Start flexbox */
@@ -17,14 +17,14 @@
   flex: 1;
 }
 .introductie {
-  font-family: "Poppins" , cursive;
+  font-family: "Poppins"cursive;
   font-style: normal;
   font-weight: 700;
   font-size: 64px;
   padding-bottom: 0px;
 }
 .naam {
-  font-family: "Poppins", cursive;
+  font-family: "Poppins"cursive;
   font-style: normal;
   font-weight: 700;
   font-size: 64px;
@@ -33,7 +33,7 @@
 }
 
 .mediaendesign {
-  font-family: "Poor Story" , cursive;
+  font-family: "Poor Story", cursive;
   font-style: normal;
   font-weight: 400;
   font-size: 72px;
@@ -43,7 +43,7 @@
   padding-bottom: 40px;
 }
 .quote{
-  font-family: "Poppins" , cursive;
+  font-family: "Poppins"cursive;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
